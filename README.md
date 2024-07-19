@@ -1,2 +1,4 @@
 # Encryptix-
-This is the To-Do list . 
+Projects :-
+1. To-Do list . 
+2. Calculator .
